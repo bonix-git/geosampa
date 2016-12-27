@@ -10,3 +10,5 @@ Pontos de ônibus
 * O arquivo sem abreviações e com alguma acentuação foi produzido por mim com edição em lote. Podem ocorrer erros ou emendas de nomes que antes estavam separados. Use com muita atenção e comparando com os nomes de vias já existentes no OSM.
 
 * O arquivo apenas com tag name é um subconjunto do arquivo anterior.
+
+* O nome do ponto e o número da via estão sem o separador vírgula para evitar gerar alertas de sintaxe no JOSM.
