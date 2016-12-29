@@ -1,15 +1,16 @@
-##
+## Escolas Municipais de São Paulo
 
 Dados do Censo Escolar de 2015 segundo o site Geosampa
 
-##
+## Formatação
 
 Formatei os dados de endereço e contato das escolas municipais, de todos os tipos,
 para inserção no OSM.
 
 Para evitar retrabalho achei útil compartilhar a tabela aqui para que outros possam utilizar.
 
-##
+## TAGs
+
 Ao abrir a planilha procure pela folha/tabela DADOS. As colunas com nome em AMARELO correspondem
 aos dados que serão inseridos no OSM.
 
@@ -29,9 +30,19 @@ As TAGS utilizadas foram:
 * note=A tag ref contém o código da escola no MEC.
 * ref=35207697
 
-##
-Escola sem numeração de rua
+## Escola sem numeração de rua
 
 * Não faça isso:  addr:housenumber=S/N
 
 * Faça isso: note=Endereço sem numeração.
+
+
+## Fonte dos dados
+
+No JOSM ou ID, ao informar a fonte dos dados, sugiro utilizar uma combinação das fontes abaixo:
+
+* Bing
+* GESP
+* Mapillary
+* OpenStreetCam
+* Survey
