@@ -1,8 +1,14 @@
 ##
+
 Dados do Censo Escolar de 2015 segundo o site Geosampa
+
 ##
+
 Formatei os dados de endereço e contato das escolas municipais, de todos os tipos,
 para inserção no OSM.
+
+Para evitar retrabalho achei útil compartilhar a tabela aqui para que outros possam utilizar.
+
 ##
 As TAGS utilizadas foram:
 
@@ -18,3 +24,5 @@ As TAGS utilizadas foram:
 * name=Escola Municipal de Educação Infantil José Joaquim da Silva
 * note=A tag ref contém o código da escola no MEC.
 * ref=35207697
+
+##
