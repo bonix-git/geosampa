@@ -15,6 +15,7 @@ As TAGS utilizadas foram:
 * addr:city=São Paulo
 * addr:country=BR
 * addr:housenumber=120
+* addr:postcode=02142-000
 * addr:state=SP
 * addr:street=Rua Soldado Anésio Antão Ferreira
 * alt_name=EMEI José Josquim da Silva
