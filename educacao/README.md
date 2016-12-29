@@ -42,7 +42,7 @@ As TAGS utilizadas foram:
 No JOSM ou ID, ao informar a fonte dos dados, sugiro utilizar uma combinação das fontes abaixo:
 
 * Bing
-* GESP
+* PMSP
 * Mapillary
 * OpenStreetCam
 * Survey
