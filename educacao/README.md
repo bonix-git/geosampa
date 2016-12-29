@@ -30,3 +30,8 @@ As TAGS utilizadas foram:
 * ref=35207697
 
 ##
+Escola sem numeração de rua
+
+* Não faça isso:  addr:housenumber=S/N
+
+* Faça isso: note=Endereço sem numeração.
