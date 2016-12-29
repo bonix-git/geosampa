@@ -10,7 +10,8 @@ para inserção no OSM.
 Para evitar retrabalho achei útil compartilhar a tabela aqui para que outros possam utilizar.
 
 ##
-Ao abrir a planilha procure pela folha/tabela DADOS.
+Ao abrir a planilha procure pela folha/tabela DADOS. As colunas com nome em AMARELO correspondem
+aos dados que serão inseridos no OSM.
 
 As TAGS utilizadas foram:
 
