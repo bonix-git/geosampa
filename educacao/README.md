@@ -10,6 +10,8 @@ para inserção no OSM.
 Para evitar retrabalho achei útil compartilhar a tabela aqui para que outros possam utilizar.
 
 ##
+Ao abrir a planilha procure pela folha/tabela DADOS.
+
 As TAGS utilizadas foram:
 
 * addr:city=São Paulo
